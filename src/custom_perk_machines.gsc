@@ -320,65 +320,65 @@ init_custom_map()
 	{
 		//Town
 		//Bookstore
-		perk_system( "script_model", (847, -1037, 120), "zombie_vending_revive_on", ( 0, 326, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 3000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
+		perk_system( "script_model", (847, -1037, 120), "zombie_vending_revive_on", ( 0, 326, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 2000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
 		//Laundry Door
-		perk_system( "script_model", (1851, -810, -55), "zombie_vending_jugg_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 10000, "jugger_light", "Rampage","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (1851, -810, -55), "zombie_vending_jugg_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 2000, "jugger_light", "Rampage","zombie_perk_bottle_jugg" );
 		//West Town, infront of bookstore
-		perk_system( "script_model", (488, -281, -62), "zombie_vending_marathon_on", ( 0, 45, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 5000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (488, -281, -62), "zombie_vending_marathon_on", ( 0, 45, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 2000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
 		//North Town corner
-		perk_system( "script_model", (2002, 844, -56), "zombie_vending_sleight_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 3000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (2002, 844, -56), "zombie_vending_sleight_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 2000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
 		//North Town wall
-		perk_system( "script_model", (1131, 613, -50), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 10000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (1131, 613, -50), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 2000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
 		//Bar Ground door
-		perk_system( "script_model", (1846, 680, -55), "zombie_vending_revive_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 20000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
+		perk_system( "script_model", (1846, 680, -55), "zombie_vending_revive_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 2000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
 		//bookstore corner
 		perk_system( "script_model", (713, -1400, 128), "zombie_vending_doubletap2_on", ( 0, 45, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2500, "doubletap_light", "Bloodthirst","zombie_perk_bottle_doubletap" );
 		//Opposite tombstone
-		perk_system( "script_model", (1167, -1086, -55), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 4000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (1167, -1086, -55), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 2000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
 		//next to EC
-		perk_system( "script_model", (2442, -771, -55), "zombie_vending_marathon_on", ( 0, 215, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 12000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (2442, -771, -55), "zombie_vending_marathon_on", ( 0, 215, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 1200, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
 		//Bank
-		perk_system( "script_model", (795, 426, -40), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 15000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (795, 426, -40), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 1500, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
 		//Bookstore stairs
-		perk_system( "script_model", (555, -1354, 120), "zombie_vending_tombstone_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Mule Kick", 4000, "tombstone_light", "MULE","zombie_perk_bottle_tombstone" );
+		perk_system( "script_model", (555, -1354, 120), "zombie_vending_tombstone_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Mule Kick", 2000, "tombstone_light", "MULE","zombie_perk_bottle_tombstone" );
 		//south town inside building
-		perk_system( "script_model", (843, -1475, -45), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (843, -1475, -45), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 2000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 		//next to tombstone
-		perk_system( "script_model", (1832, -1220, -56), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (1832, -1220, -56), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 2000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 		//east town bar wall
-		perk_system( "script_model", (2350, -44, -56), "zombie_vending_doubletap2_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 12000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", (2350, -44, -56), "zombie_vending_doubletap2_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 2000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
 		
 		
 		//Farm 
 		
 		//next to fridge
-		perk_system( "script_model", (8313, -6823, 117), "zombie_vending_revive_on", ( 0, 210, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 3000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
+		perk_system( "script_model", (8313, -6823, 117), "zombie_vending_revive_on", ( 0, 210, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 2000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
 		//next to stablle looking thin
-		perk_system( "script_model", (8735, -6559, 108), "zombie_vending_jugg_on", ( 0, 210, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 10000, "jugger_light", "Rampage","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (8735, -6559, 108), "zombie_vending_jugg_on", ( 0, 210, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 2000, "jugger_light", "Rampage","zombie_perk_bottle_jugg" );
 		//next to mystery box
-		perk_system( "script_model", (7740, -6283, 245), "zombie_vending_marathon_on", ( 0, 80, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 5000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (7740, -6283, 245), "zombie_vending_marathon_on", ( 0, 80, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 2000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
 		//inside barn
-		perk_system( "script_model", (8500, -5091, 48), "zombie_vending_sleight_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 3000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (8500, -5091, 48), "zombie_vending_sleight_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 2000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
 		//next to dbtp2
-		perk_system( "script_model", (8366, -4691, 264), "zombie_vending_sleight_on", ( 0, 276, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 10000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (8366, -4691, 264), "zombie_vending_sleight_on", ( 0, 276, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 1000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
 		//inside house
-		perk_system( "script_model", (7907, -6551, 116), "zombie_vending_revive_on", ( 0, 120, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 20000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
+		perk_system( "script_model", (7907, -6551, 116), "zombie_vending_revive_on", ( 0, 120, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 2000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
 		//next to far barn stairs
 		perk_system( "script_model", (8515, -4665, 48), "zombie_vending_doubletap2_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2500, "doubletap_light", "Bloodthirst","zombie_perk_bottle_doubletap" );
 		//outside barn
-		perk_system( "script_model", (7848, -4888, 45), "zombie_vending_sleight_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 4000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (7848, -4888, 45), "zombie_vending_sleight_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 2000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
 		//wall of house
-		perk_system( "script_model", (8246 ,-6379 ,90), "zombie_vending_marathon_on", ( 0, 120, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 12000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (8246 ,-6379 ,90), "zombie_vending_marathon_on", ( 0, 120, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 2000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
 		//right of fence
-		perk_system( "script_model", (7204, -5824, -46), "zombie_vending_marathon_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 15000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (7204, -5824, -46), "zombie_vending_marathon_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 1000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
 		//nxt to tractor
-		perk_system( "script_model", (8823, -5760, 49), "zombie_vending_tombstone_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Mule Kick", 4000, "tombstone_light", "MULE","zombie_perk_bottle_tombstone" );
+		perk_system( "script_model", (8823, -5760, 49), "zombie_vending_tombstone_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Mule Kick", 2000, "tombstone_light", "MULE","zombie_perk_bottle_tombstone" );
 		//left of fence
-		perk_system( "script_model", (7182, -5613, -45), "zombie_vending_marathon_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (7182, -5613, -45), "zombie_vending_marathon_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 2000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 		//next to fence
-		perk_system( "script_model", (7057, -5725, -48), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (7057, -5725, -48), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 2000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 		//outside door. below mystery box
-		perk_system( "script_model", (7760, -6316, 116), "zombie_vending_doubletap2_on", ( 0, 120, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 12000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", (7760, -6316, 116), "zombie_vending_doubletap2_on", ( 0, 120, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 2000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
 		
 
 		
@@ -387,101 +387,101 @@ init_custom_map()
 	else if (getdvar("mapname") == "zm_buried")
 	{
 		//outside saloon and toy store nook
-		perk_system( "script_model", (945, -1048, 52), "zombie_vending_revive_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 3000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
+		perk_system( "script_model", (945, -1048, 52), "zombie_vending_revive_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 2000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
 		//candy store upstairs
-		perk_system( "script_model", (572, -375, 144), "zombie_vending_doubletap2_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 10000, "doubletap_light", "Rampage","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", (572, -375, 144), "zombie_vending_doubletap2_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 1000, "doubletap_light", "Rampage","zombie_perk_bottle_doubletap" );
 		//opposite saloon upstairs
-		perk_system( "script_model", (-84, -1512, 168), "zombie_vending_marathon_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 5000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (-84, -1512, 168), "zombie_vending_marathon_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 2000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
 		//saloon
-		perk_system( "script_model", (532, -1172, 208), "zombie_vending_sleight_on", ( 0, 310, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 3000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (532, -1172, 208), "zombie_vending_sleight_on", ( 0, 310, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 2000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
 		//general store
-		perk_system( "script_model", (80, -428, 144), "zombie_vending_jugg_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 10000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (80, -428, 144), "zombie_vending_jugg_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 1000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
 		//outside gunsmith nook
-		perk_system( "script_model", (-981, -1002, -24), "zombie_vending_revive_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 20000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
+		perk_system( "script_model", (-981, -1002, -24), "zombie_vending_revive_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 2000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
 		//jail upstairs
-		perk_system( "script_model", (-785, 705, 145), "p6_zm_vending_vultureaid_on", ( 0, 300, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2500, "jugger_light", "Bloodthirst","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (-785, 705, 145), "p6_zm_vending_vultureaid_on", ( 0, 300, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2000, "jugger_light", "Bloodthirst","zombie_perk_bottle_jugg" );
 		//courthouse downstairs
-		perk_system( "script_model", (291, 1295, 8), "zombie_vending_sleight_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 4000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (291, 1295, 8), "zombie_vending_sleight_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 2000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
 		//graveyard
-		perk_system( "script_model", (615, 1368, -20), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 12000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (615, 1368, -20), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 2000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
 		//mansion backyard
-		perk_system( "script_model", (3403, 860, 50), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 15000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (3403, 860, 50), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 1000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
 		//church downstairs
-		perk_system( "script_model", (1698, 2394, 40), "zombie_vending_marathon_on", ( 0, 340, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (1698, 2394, 40), "zombie_vending_marathon_on", ( 0, 340, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 3000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 		//bank
-		perk_system( "script_model", (-494, -198, 20), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (-494, -198, 20), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 2000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 	}
 		
 	else if (getdvar( "mapname" ) == "zm_nuked") 
 	{	
 		
-		perk_system( "script_model", ( 632, 418, -57 ), "zombie_vending_sleight_on", ( 0, 190, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 3000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
-		perk_system( "script_model", ( 1919, 697, -64 ), "zombie_vending_doubletap2_on", ( 0, 330, 0 ), "custom", "mus_perks_tombstone_sting", "Thunder Wall", 25000, "doubletap_light", "THUNDER_WALL","zombie_perk_bottle_doubletap" );
-		perk_system( "script_model", ( 701, 358, 80	 ), "zombie_vending_doubletap2_on", ( 0, 20, 0 ), "custom", "mus_perks_doubletap_sting", "Ammo Regen", 15000, "doubletap_light", "Ammo_Regen","zombie_perk_bottle_doubletap" );
-		perk_system( "script_model", ( -998, 211, -34 ), "zombie_vending_revive_on", ( 0, 250, 0 ), "custom", "mus_perks_tombstone_sting", "Dying Wish", 15000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
-		perk_system( "script_model", ( 699, 560.7, -57 ), "zombie_vending_sleight_on", ( 0, 105, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 3000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
-		perk_system( "script_model", ( -1830, 686, -48 ), "zombie_vending_doubletap2_on", ( 0, 340, 0 ), "custom", "mus_perks_tombstone_sting", "Executioner's Edge", 18000, "doubletap_light", "Executioners_Edge","zombie_perk_bottle_doubletap" );
-		perk_system( "script_model", ( -156, -90, -65), "zombie_vending_jugg_on", ( 0, 310, 0 ), "custom", "mus_perks_jugg_sting", "PhD Flopper", 8000, "jugger_light", "PHD_FLOPPER","zombie_perk_bottle_jugg" );
-		perk_system( "script_model", (  -897.749, -170, -60), "zombie_vending_sleight_on", ( 0, 110, 0 ), "custom", "mus_perks_mulekick_sting", "Mule Kick", 4000, "sleight_light", "MULE","zombie_perk_bottle_sleight" );
-		perk_system( "script_model", ( -868, 352, 85 ), "zombie_vending_doubletap2_on", ( 0, 160, 0 ), "custom", "mus_perks_tombstone_sting", "Rampage", 18000, "doubletap_light", "Rampage", "zombie_perk_bottle_doubletap" );
-		perk_system( "script_model", (-651, 273, -55), "zombie_vending_jugg_on", ( 0, 160, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 10000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", ( 632, 418, -57 ), "zombie_vending_sleight_on", ( 0, 190, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 2000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", ( 1919, 697, -64 ), "zombie_vending_doubletap2_on", ( 0, 330, 0 ), "custom", "mus_perks_tombstone_sting", "Thunder Wall", 2000, "doubletap_light", "THUNDER_WALL","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", ( 701, 358, 80	 ), "zombie_vending_doubletap2_on", ( 0, 20, 0 ), "custom", "mus_perks_doubletap_sting", "Ammo Regen", 1000, "doubletap_light", "Ammo_Regen","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", ( -998, 211, -34 ), "zombie_vending_revive_on", ( 0, 250, 0 ), "custom", "mus_perks_tombstone_sting", "Dying Wish", 1000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
+		perk_system( "script_model", ( 699, 560.7, -57 ), "zombie_vending_sleight_on", ( 0, 105, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 2000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", ( -1830, 686, -48 ), "zombie_vending_doubletap2_on", ( 0, 340, 0 ), "custom", "mus_perks_tombstone_sting", "Executioner's Edge", 1000, "doubletap_light", "Executioners_Edge","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", ( -156, -90, -65), "zombie_vending_jugg_on", ( 0, 310, 0 ), "custom", "mus_perks_jugg_sting", "PhD Flopper", 2000, "jugger_light", "PHD_FLOPPER","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (  -897.749, -170, -60), "zombie_vending_sleight_on", ( 0, 110, 0 ), "custom", "mus_perks_mulekick_sting", "Mule Kick", 2000, "sleight_light", "MULE","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", ( -868, 352, 85 ), "zombie_vending_doubletap2_on", ( 0, 160, 0 ), "custom", "mus_perks_tombstone_sting", "Rampage", 1000, "doubletap_light", "Rampage", "zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", (-651, 273, -55), "zombie_vending_jugg_on", ( 0, 160, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 1000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
 		perk_system( "script_model", (1149, 170, 79), "zombie_vending_doubletap2_on", ( 0, 284, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2500, "jugger_light", "Bloodthirst","zombie_perk_bottle_jugg" );
-		perk_system( "script_model", (-937, 275, -56 ), "zombie_vending_doubletap2_on", ( 0, 70, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (-937, 275, -56 ), "zombie_vending_doubletap2_on", ( 0, 70, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 3000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 	}
 	else if (getdvar( "mapname" ) == "zm_tomb") //Origins
 	{
 		//Dying Wish, Downer's Delight, Rampage, Ammo Regen, Headshot Mayhem, Executioner's Edge, Thunder Wall, Bloodthirst, Guarding Strike , Widow's Wine
 		//gen 2 
-		perk_system( "script_model", (204, 2447, -127), "zombie_vending_jugg_on", ( 0, 50, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 3000, "revive_light", "Downers_Delight","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (204, 2447, -127), "zombie_vending_jugg_on", ( 0, 50, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 2000, "revive_light", "Downers_Delight","zombie_perk_bottle_jugg" );
 		//excv site level 1
-		perk_system( "script_model", (446, -144, -240), "zombie_vending_marathon_on", ( 0, 251, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 10000, "doubletap_light", "Rampage","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (446, -144, -240), "zombie_vending_marathon_on", ( 0, 251, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 1000, "doubletap_light", "Rampage","zombie_perk_bottle_marathon" );
 		//excv site
-		perk_system( "script_model", (182, -108, -621), "zombie_vending_jugg_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 10000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (182, -108, -621), "zombie_vending_jugg_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 1000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_jugg" );
 		//Gen 5 Cellar
-		perk_system( "script_model", (-2708, 360, 48), "zombie_vending_jugg_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 20000, "revive_light", "Dying_Wish","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (-2708, 360, 48), "zombie_vending_jugg_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Dying Wish", 2000, "revive_light", "Dying_Wish","zombie_perk_bottle_jugg" );
 		//excv site
-		perk_system( "script_model", (343, -323, -365), "zombie_vending_sleight_on", ( 0, 219, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2500, "jugger_light", "Bloodthirst","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (343, -323, -365), "zombie_vending_sleight_on", ( 0, 219, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2000, "jugger_light", "Bloodthirst","zombie_perk_bottle_sleight" );
 		//Tank Station
-		perk_system( "script_model", (-584, 4436, -350), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 4000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (-584, 4436, -350), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 2000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
 		//Gen 6 Tank station
-		perk_system( "script_model", (1121, -2717, 50), "zombie_vending_marathon_on", ( 0, 284, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 12000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (1121, -2717, 50), "zombie_vending_marathon_on", ( 0, 284, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 2000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
 		//excavation site level 1
-		perk_system( "script_model", (231, -409, -237), "zombie_vending_marathon_on", ( 0, 201, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 15000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (231, -409, -237), "zombie_vending_marathon_on", ( 0, 201, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 1000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
 		//staff station
-		perk_system( "script_model", (-246, 162, -751), "zombie_vending_marathon_on", ( 0, 53, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (-246, 162, -751), "zombie_vending_marathon_on", ( 0, 53, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 2000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 		//Gen 3 Bunker 1
-		perk_system( "script_model", (2368, 3610, -292), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (2368, 3610, -292), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 2000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 	}
 	else if (getdvar("mapname") == "zm_transit" && getdvar( "g_gametype" )=="zclassic") //TranZit
 	{//Depot, Diner, Farm, Town, Power area
 		//Outside Power Station
-		perk_system( "script_model", (11231, 8120, -563), "zombie_vending_revive_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 3000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
+		perk_system( "script_model", (11231, 8120, -563), "zombie_vending_revive_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Downer's Delight", 2000, "revive_light", "Downers_Delight","zombie_perk_bottle_revive" );
 		//Town bank
-		perk_system( "script_model", (780, 90, -40), "zombie_vending_tombstone_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 10000, "jugger_light", "Rampage","zombie_perk_bottle_jugg" );
+		perk_system( "script_model", (780, 90, -40), "zombie_vending_tombstone_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Rampage", 1000, "jugger_light", "Rampage","zombie_perk_bottle_jugg" );
 		//idk (probably farm opposite doubletap)
-		perk_system( "script_model", (8380, -5408, 263), "zombie_vending_marathon_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 5000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (8380, -5408, 263), "zombie_vending_marathon_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "PhD Flopper", 2000, "marathon_light", "PHD_FLOPPER","zombie_perk_bottle_marathon" );
 		//Gas Station/Diner wall
-		perk_system( "script_model", (-5424, -7870, -59), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 3000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (-5424, -7870, -59), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Electric Cherry", 2000, "revive_light", "ELECTRIC_CHERRY","zombie_perk_bottle_sleight" );
 		//Power Station
-		perk_system( "script_model", (11572, 7723, -756), "zombie_vending_sleight_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 10000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (11572, 7723, -756), "zombie_vending_sleight_on", ( 0, 0, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 1000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
 		//Farmhouse
-		perk_system( "script_model", ( 7893, -6527, 117 ), "zombie_vending_revive_on", ( 0, 120, 0 ), "custom", "mus_perks_tombstone_sting", "Dying Wish", 20000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
+		perk_system( "script_model", ( 7893, -6527, 117 ), "zombie_vending_revive_on", ( 0, 120, 0 ), "custom", "mus_perks_tombstone_sting", "Dying Wish", 2000, "revive_light", "Dying_Wish","zombie_perk_bottle_revive" );
 		//Outside bus depot 
-		perk_system( "script_model", (-6304, 5396, -56), "zombie_vending_doubletap2_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2500, "doubletap_light", "Bloodthirst","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", (-6304, 5396, -56), "zombie_vending_doubletap2_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2000, "doubletap_light", "Bloodthirst","zombie_perk_bottle_doubletap" );
 		//Diner
-		perk_system( "script_model", (-6496, -7909, 3), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 4000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
+		perk_system( "script_model", (-6496, -7909, 3), "zombie_vending_sleight_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Widow's Wine", 2000, "sleight_light", "WIDOWS_WINE","zombie_perk_bottle_sleight" );
 		//town corner idk
-		perk_system( "script_model", (2443, -770, -56), "zombie_vending_marathon_on", ( 0, 215, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 12000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (2443, -770, -56), "zombie_vending_marathon_on", ( 0, 215, 0 ), "custom", "mus_perks_sleight_sting", "Ammo Regen", 2000, "marathon_light", "Ammo_Regen","zombie_perk_bottle_marathon" );
 		//Town bank
-		perk_system( "script_model", (780, 426, -40), "zombie_vending_tombstone_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 15000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (780, 426, -40), "zombie_vending_tombstone_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Executioner's Edge", 1000, "marathon_light", "Executioners_Edge","zombie_perk_bottle_marathon" );
 		//Farm
-		perk_system( "script_model", (8732, -6560, 108), "zombie_vending_tombstone_on", ( 0, 210, 0 ), "custom", "mus_perks_sleight_sting", "Mule Kick", 4000, "tombstone_light", "MULE","zombie_perk_bottle_tombstone" );
+		perk_system( "script_model", (8732, -6560, 108), "zombie_vending_tombstone_on", ( 0, 210, 0 ), "custom", "mus_perks_sleight_sting", "Mule Kick", 2000, "tombstone_light", "MULE","zombie_perk_bottle_tombstone" );
 		//Warehouse
-		perk_system( "script_model", (11437, 8713, -576), "zombie_vending_jugg_on", ( 0, 315, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (11437, 8713, -576), "zombie_vending_jugg_on", ( 0, 315, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 2000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 		//next to tombstone, town
-		perk_system( "script_model", (1832, -1220, -56), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
+		perk_system( "script_model", (1832, -1220, -56), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 2000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 		//outside bus depot
-		perk_system( "script_model", (-7417, 4147, -64), "zombie_vending_doubletap2_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 12000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
+		perk_system( "script_model", (-7417, 4147, -64), "zombie_vending_doubletap2_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 1000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
 		
 	}
 	// probably wont do this might though
